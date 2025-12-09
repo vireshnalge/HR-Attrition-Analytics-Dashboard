@@ -95,23 +95,9 @@ More details are available in [`docs/data_dictionary.md`](docs/data_dictionary.m
 - **Power Query** – Data cleaning and transformation  
 - **DAX** – Calculated measures and KPIs  
 - **Excel / CSV** – Data source
-
-(Optional add if used:)  
-- **Python (Pandas, NumPy)** – Exploratory data analysis  
-- **Git / GitHub** – Version control and project hosting
-
 ---
 
-## 6. How to Use This Project
-
-1. Clone or download this repository.
-2. Open `powerbi/HR_Attrition_Analytics_Dashboard.pbix` in **Power BI Desktop**.
-3. If needed, update the data source path for the CSV file in the **data** folder.
-4. Refresh the dataset to view all visuals and KPIs.
-
----
-
-## 7. Project Highlights (for Recruiters)
+## 6. Project Highlights 
 
 - Designed a **complete HR Analytics solution** from raw data to interactive dashboard.
 - Implemented **KPI cards, bar charts, donut charts, and tables** to analyze attrition across multiple dimensions.
@@ -120,7 +106,7 @@ More details are available in [`docs/data_dictionary.md`](docs/data_dictionary.m
 
 ---
 
-## 8. Future Enhancements
+## 7. Future Enhancements
 
 - Add predictive modelling for **attrition risk scoring** (Python / ML).
 - Add drill-through pages for detailed **employee-level analysis**.
@@ -128,6 +114,6 @@ More details are available in [`docs/data_dictionary.md`](docs/data_dictionary.m
 
 ---
 
-## 9. Screenshots
+## 8. Screenshots
 
 ![HR Attrition Analytics Dashboard](images/hr_attrition_dashboard.png)
