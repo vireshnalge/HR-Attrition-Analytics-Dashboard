@@ -130,4 +130,4 @@ More details are available in [`docs/data_dictionary.md`](docs/data_dictionary.m
 
 ## 9. Screenshots
 
-![HR Attrition Analytics Dashboard](images/hr_attrition_dashboard.png)
+![HR Attrition Analytics Dashboard](images/HR Attrition Analytics Dashboard.png)
