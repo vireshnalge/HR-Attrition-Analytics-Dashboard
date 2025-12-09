@@ -43,5 +43,4 @@ This document describes the fields used in the HR Attrition Analytics Dashboard.
 | AgeBand (derived)         | Age group bucket used in visuals (e.g., `18–25`, `26–35`)                 | Text     | 26–35                |
 | TenureBand (derived)      | Years-at-company bucket for analysis (e.g., `0–2`, `3–5`, `6–10`, `10+`)  | Text     | 3–5                  |
 
-> **Note:** Some columns (like `SalaryBand`, `AgeBand`, `TenureBand`) may be created in Power Query/DAX as calculated fields for better visualization.
 
